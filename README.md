@@ -22,45 +22,52 @@
 
 ## 🚀 About Me
 
-<img src="assets/astronaut.png" align="right" width="220" alt="Astronaut" />
-
-**Sunny Spiky, Here** — Founder of **[Alatix Stack](https://sunnyspiky.tech/)** and a **Full-Stack Engineer** with **3+ years** of hands-on experience building production-grade web systems.
-
-- 💼 **What I Do:** I architect and ship end-to-end platforms — from backend systems and database schemas to intuitive frontend experiences and deployment pipelines.
-- 🏥 **Real-World SaaS:** Currently scaling **[LabSoftix](https://labsoftix.com/)** (Pathology Lab Management SaaS) and **[The Vision Academy Plus](http://thevisionacademyplus.com/)** (Enterprise LMS) built to handle demanding operational load.
-- ⚡ **Current Focus:** Deep-diving into **Advanced System Architecture**, integrating **Generative AI** into practical business workflows, and building ultra-fast backends with **FastAPI** & **Spring Boot**.
-
-<br/>
-
-> 🏍️ **Beyond the Terminal:**  
-> When I'm away from code, you'll find me on **long-distance motorcycle road trips**, doing bike maintenance, creating **3D motion graphics in CapCut**, hunting down local street food, or watching sci-fi thriller series like *Stranger Things*.
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <p>
+        <strong>Sunny Spiky, Here</strong> — Founder of <strong><a href="https://sunnyspiky.tech/">Alatix Stack</a></strong> and a <strong>Full-Stack Engineer</strong> with <strong>3+ years</strong> of hands-on experience shipping production-grade platforms.
+      </p>
+      <ul>
+        <li>💼 <strong>Full-Lifecycle Engineering:</strong> I build end-to-end systems — from high-throughput backend APIs and robust data architectures to intuitive, performant frontend experiences.</li>
+        <li>🏥 <strong>Real-World SaaS:</strong> Currently scaling <strong><a href="https://labsoftix.com/">LabSoftix</a></strong> (Pathology SaaS) and <strong><a href="http://thevisionacademyplus.com/">The Vision Academy Plus</a></strong> (Enterprise LMS) built for heavy operational loads.</li>
+        <li>⚡ <strong>Technical Focus:</strong> Advanced System Architecture, practical <strong>Generative AI workflows</strong>, and scalable microservices with <strong>FastAPI</strong> & <strong>Spring Boot</strong>.</li>
+      </ul>
+      <p>
+        🏍️ <strong>Beyond the Terminal:</strong><br/>
+        Long-distance motorcycle road trips & bike maintenance, 3D motion graphics in CapCut, street food discovery, and sci-fi thriller series like <em>Stranger Things</em>.
+      </p>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="assets/astronaut.png" width="220" alt="Pixel Astronaut" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
   <a href="https://github.com/md-ghulam-rabbani" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/md-ghulam-rabbani-sunny-spiky" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:me@sunnyspiky.tech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/sunny_spikyy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="46" height="46" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sunny__spikyyyyyy______?stkn=dHdrcjdkZHo3dDNl" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="46" height="46" alt="Instagram" />
   </a>
 
   <br/><br/>
@@ -81,16 +88,16 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Toolkit
 
 <div align="center">
 
-  <p><strong>Languages & Frontend</strong></p>
+  <p><strong>Languages & Core Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=py,js,ts,php,java,html,css,tailwind,bootstrap,nextjs,angular&perline=11" alt="Languages & Frontend" />
 
   <br/><br/>
 
-  <p><strong>Backend, Databases & DevOps</strong></p>
+  <p><strong>Backend Architecture, Databases & DevOps</strong></p>
   <img src="https://skillicons.dev/icons?i=fastapi,spring,laravel,nodejs,mysql,postgres,docker,git,github,postman,linux,vercel,vscode&perline=13" alt="Backend & Tools" />
 
 </div>
@@ -99,35 +106,69 @@
 
 ## 🛠️ Featured Projects
 
-### 🏥 [LabSoftix](https://labsoftix.com/) — B2B Pathology Laboratory SaaS
-> End-to-end platform managing complete laboratory operations with zero-compromise reliability.
-- **Key Capabilities:** Patient registration, automated diagnostic test reporting, invoice generation & billing, and doctor referral attribution.
-- **Tech Stack:** `CodeIgniter 3` • `AngularJS` • `MySQL`
-
-<br/>
-
-### 🎓 [The Vision Academy Plus](http://thevisionacademyplus.com/) — Enterprise LMS
-> Comprehensive Learning Management System engineered for modern educational institutions.
-- **Key Capabilities:** Dedicated portals for students and instructors, structured course content pipelines, and interactive QA verification.
-- **Tech Stack:** `FastAPI` • `Spring Boot` • `Next.js` • `Tailwind CSS`
-
-<br/>
-
-### 📋 [Alatix Task Tracker](https://sunnyspiky.tech/tracker/tasks) — Interactive Kanban Productivity Tool
-> Fluid productivity web application with gamified micro-interactions for fast task execution.
-- **Key Capabilities:** Interactive drag-and-drop task workflows, column management, and completion reward animations.
-- **Tech Stack:** `JavaScript (ES6+)` • `HTML5` • `CSS3`
-
-<br/>
-
-### 🐛 [GlitchGuard](#) — Centralized Exception & Error Monitor
-> Real-time runtime exception monitor designed to capture, categorize, and diagnose bugs before users report them.
-- **Key Capabilities:** Centralized error logging with full stack traces, browser/OS metadata, and team triage alerts.
-- **Tech Stack:** `Laravel` • `Angular` • `RESTful API`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://labsoftix.com/">LabSoftix</a></h3>
+      <p><strong>B2B Pathology Laboratory SaaS Platform</strong></p>
+      <p>Comprehensive clinical platform powering end-to-end laboratory automation: patient intake, automated report generation, billing, and doctor referral attribution.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" />
+        <img src="https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white" alt="AngularJS" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <p>
+        <a href="https://labsoftix.com/" target="_blank"><b>🌐 Visit Live SaaS →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="http://thevisionacademyplus.com/">The Vision Academy Plus</a></h3>
+      <p><strong>Enterprise Learning Management System (LMS)</strong></p>
+      <p>Engineered for high-volume course delivery, customized role-based portals for students and instructors, and streamlined administrative control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <p>
+        <a href="http://thevisionacademyplus.com/" target="_blank"><b>🌐 Explore LMS Platform →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 <a href="https://sunnyspiky.tech/tracker/tasks">Alatix Task Tracker</a></h3>
+      <p><strong>Kanban Productivity Web Application</strong></p>
+      <p>Fluid productivity tool with drag-and-drop column boards, interactive workflows, and gamified completion animations for elevated user retention.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+      <p>
+        <a href="https://sunnyspiky.tech/tracker/tasks" target="_blank"><b>🚀 Launch Web App →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐛 GlitchGuard</h3>
+      <p><strong>Centralized Exception & Error Monitor</strong></p>
+      <p>Real-time application health monitor capturing runtime exceptions, stack traces, and environment metadata for accelerated developer debugging.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+      </p>
+      <p>
+        <code>🔒 Internal Tool @ Alatix Stack</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/md-ghulam-rabbani">
@@ -137,20 +178,14 @@
   <a href="https://github.com/md-ghulam-rabbani">
     <img src="https://github-readme-stats.vercel.app/api?username=md-ghulam-rabbani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
+  &nbsp;&nbsp;
   <a href="https://github.com/md-ghulam-rabbani">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ghulam-rabbani&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ghulam-rabbani&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <sub>⚡ Designed with passion by <a href="https://sunnyspiky.tech/">Md Ghulam Rabbani (Sunny Spiky)</a> • Founder @ Alatix Stack</sub>
+  <sub>⚡ Engineered with passion by <a href="https://sunnyspiky.tech/">Md Ghulam Rabbani (Sunny Spiky)</a> • Founder @ Alatix Stack</sub>
 </p>
